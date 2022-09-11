@@ -1,0 +1,4 @@
+This is a child branch by the name of 'master' because the 'master' branch is intended to be the link between WatsonStudio and Github.
+And after recent changes the master branch is called the 'main' branch by default. 
+So WastsonStudio fails to find the master branch. 
+This is a quick hack to fix this issue and allow us to publish files from WatsonStudio to GitHub.
